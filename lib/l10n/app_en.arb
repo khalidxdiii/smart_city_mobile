@@ -1,0 +1,25 @@
+{
+  "homePage": "Home Page",
+  "login": "Login",
+  "personalInformation": "Personal Information",
+  "name": "Name",
+  "nameHint": "Enter your name",
+  "email": "Email",
+  "passwoird":"Passwoird",
+  "donthaveanaccount":"Don't have an account? ",
+  "registernow":"Register now !!",
+  "emailHint": "Enter your email",
+  "dateOfBirth": "Date of Birth",
+  "requiredField": "Required Field",
+  "submitInfo": "Submit Info",
+  "aboutUs": "About Us",
+  "settings": "Settings",
+  "changeLanguage": "Change Language",
+  "statistics":"statistics",
+  "details":"Details",
+  "totalreports":"Total reports : ",
+  "pindingreports":"Pinding reports : ",
+  "reportsunderreview":"Reports under review : ",
+  "completedreports":"Completed reports : "
+
+}
